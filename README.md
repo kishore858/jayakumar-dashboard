@@ -88,3 +88,5 @@ const MONGODB_API_URL = "https://data.mongodb-api.com/app/data-abcde/endpoint/da
 The Data API URL will be shown on the Data API page in your MongoDB Atlas dashboard.
 
 Note that api.ts is getting quite long (393 lines). Once you have everything working, consider asking me to refactor it for better maintainability.
+
+github codespace link is https://upgraded-goggles-975gr6qqjwgrcrj4.github.dev/
